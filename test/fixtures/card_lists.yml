@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: MyString
+  name: MyString
+  letter: MyString
+  deck_count: MyString
+  total_count: MyString
+
+two:
+  user_id: MyString
+  name: MyString
+  letter: MyString
+  deck_count: MyString
+  total_count: MyString
