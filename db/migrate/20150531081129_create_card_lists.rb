@@ -4,8 +4,8 @@ class CreateCardLists < ActiveRecord::Migration
       t.string :user_id
       t.string :name
       t.string :letter
-      t.string :deck_count
-      t.string :total_count
+      t.integer :deck_count
+      t.integer :total_count
 
       t.timestamps
     end
